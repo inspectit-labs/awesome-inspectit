@@ -1,0 +1,44 @@
+# Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome inspectIT documentations and resources.
+
+[![inspectIT](media/inspectit.png)](http://www.inspectit.rocks/)
+
+inspectIT is an open source APM (Application Performance Management) tool for analyzing Java (EE) applications.
+
+## Contents
+
+- [Official resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Blog posts](#blog-posts)
+
+## Official resources
+
+* [Website](http://www.inspectit.rocks/) - Official inspectIT project website.
+* [GitHub repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
+* [Issue tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
+* [Documentation](https://inspectit-performance.atlassian.net/wiki/) - Official inspectIT documentation.
+
+## Tutorials
+* [How to Write Your Own Sensor](https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a) - Walkthrough on how to implement a custom sensor for inspectIT.
+* [inspectIT Workshop](https://github.com/inspectit-labs/workshop) - A hands-on workshop about inspectIT and its setup, configuration and usage.
+* [Using Java Management Extensions (JMX)](https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - Walkthrough on how to monitor JMX attributes.
+ 
+## Videos
+
+* [inspectIT in 7 minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
+
+## Blog posts
+
+* [How we boosted Magnolia response times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - Use case where a performance problem in an application has been found using inspectIT.
+* [Collaboration with inspectIT RESTful services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - Introduction of inspectIT's REST interface.
+* [Using open source APM software: InspectIT](https://opensource.com/article/17/3/inspectit) - Overview of inspectIT and case story of a typical usage scenario.
+* [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - Comparision between the tracing systems inspectIT and Zipkin.
+* [Automated Performance Regression Testing using Open Source Tools ](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - Example scenario on how a automated performance regression chain can be setup using inspectIT.
+* [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
+* [Dynamically change monitoring points during JVM run-time with inspectIT ](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - How inspectIT dynamically updates monitoring points during application runtime.
+
+## License
+
+[![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](http://creativecommons.org/publicdomain/zero/1.0/)
