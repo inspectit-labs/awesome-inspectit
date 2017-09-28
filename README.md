@@ -43,7 +43,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Uncategorized
 
 * [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - A sample application for demonstration purposes, based on the Spring Petclinic.
-* [Grafana Dashboards for InspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
+* [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
 ## License
 
