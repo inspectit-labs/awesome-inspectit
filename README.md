@@ -12,6 +12,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Blog posts](#blog-posts)
+- [Uncategorized](#uncategorized)
 
 ## Official resources
 
@@ -38,6 +39,11 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 * [Automated Performance Regression Testing using Open Source Tools ](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - Example scenario on how a automated performance regression chain can be setup using inspectIT.
 * [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
 * [Dynamically change monitoring points during JVM run-time with inspectIT ](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - How inspectIT dynamically updates monitoring points during application runtime.
+
+## Uncategorized
+
+* [Sample application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - A sample application for demonstration purposes, based on the Spring Petclinic.
+* [Grafana Dashboards for InspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
 ## License
 
