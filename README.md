@@ -8,17 +8,17 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 
 ## Contents
 
-- [Official resources](#official-resources)
+- [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
-- [Blog posts](#blog-posts)
+- [Blog Posts](#blog-posts)
 - [Uncategorized](#uncategorized)
 
-## Official resources
+## Official Resources
 
 * [Website](http://www.inspectit.rocks/) - Official inspectIT project website.
-* [GitHub repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
-* [Issue tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
+* [GitHub Repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
+* [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
 * [Documentation](https://inspectit-performance.atlassian.net/wiki/) - Official inspectIT documentation.
 
 ## Tutorials
@@ -28,21 +28,21 @@ inspectIT is an open source APM (Application Performance Management) tool for an
  
 ## Videos
 
-* [inspectIT in 7 minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
+* [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
 
-## Blog posts
+## Blog Posts
 
-* [How we boosted Magnolia response times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - Use case where a performance problem in an application has been found using inspectIT.
-* [Collaboration with inspectIT RESTful services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - Introduction of inspectIT's REST interface.
-* [Using open source APM software: InspectIT](https://opensource.com/article/17/3/inspectit) - Overview of inspectIT and case story of a typical usage scenario.
+* [How We Boosted Magnolia Response Times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - Use case where a performance problem in an application has been found using inspectIT.
+* [Collaboration With inspectIT RESTful Services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - Introduction of inspectIT's REST interface.
+* [Using Open Source APM Software: inspectIT](https://opensource.com/article/17/3/inspectit) - Overview of inspectIT and case story of a typical usage scenario.
 * [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - Comparision between the tracing systems inspectIT and Zipkin.
-* [Automated Performance Regression Testing using Open Source Tools ](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - Example scenario on how a automated performance regression chain can be setup using inspectIT.
+* [Automated Performance Regression Testing Using Open Source Tools](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - Example scenario on how a automated performance regression chain can be setup using inspectIT.
 * [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
-* [Dynamically change monitoring points during JVM run-time with inspectIT ](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - How inspectIT dynamically updates monitoring points during application runtime.
+* [Dynamically Change Monitoring Points During JVM Run-Time With inspectIT](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - How inspectIT dynamically updates monitoring points during application runtime.
 
 ## Uncategorized
 
-* [Sample application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - A sample application for demonstration purposes, based on the Spring Petclinic.
+* [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - A sample application for demonstration purposes, based on the Spring Petclinic.
 * [Grafana Dashboards for InspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
 ## License
