@@ -12,6 +12,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Blog Posts](#blog-posts)
+- [Profiles And Sensor Configurations](#profiles-and-sensor-configurations)
 - [Uncategorized](#uncategorized)
 
 ## Official Resources
@@ -39,6 +40,10 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 * [Automated Performance Regression Testing Using Open Source Tools](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - Example scenario on how a automated performance regression chain can be setup using inspectIT.
 * [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
 * [Dynamically Change Monitoring Points During JVM Run-Time With inspectIT](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - How inspectIT dynamically updates monitoring points during application runtime.
+
+## Profiles And Sensor Configurations
+
+* [ColdFusion Markup Language Profile](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
 
 ## Uncategorized
 
