@@ -30,6 +30,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Videos
 
 * [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
+* [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
 ## Blog Posts
 
