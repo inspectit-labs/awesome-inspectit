@@ -34,7 +34,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 
 ## Blog Posts
 
-* [How We Boosted Magnolia Response Times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - Use case where a performance problem in an application has been found using inspectIT.
+* [How We Boosted Magnolia Response Times](https://www.novatec-gmbh.de/en/blog/how-we-boosted-magnolia-response-times-with-the-dynamic-page-caching/) - Use case where a performance problem in an application has been found using inspectIT.
 * [Collaboration With inspectIT RESTful Services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - Introduction of inspectIT's REST interface.
 * [Using Open Source APM Software: inspectIT](https://opensource.com/article/17/3/inspectit) - Overview of inspectIT and case story of a typical usage scenario.
 * [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - Comparision between the tracing systems inspectIT and Zipkin.
